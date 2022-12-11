@@ -4,6 +4,7 @@ public class deneme {
         System.out.println("AnGara");
 
     }
+    //kjsalk JS
 
     // I finished my codes Can you check them?
 }
