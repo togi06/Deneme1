@@ -8,3 +8,5 @@ public class deneme {
 
     // I finished my codes Can you check them?
 }
+
+// I checked your codes all of them are perfekt you can go on your next job
