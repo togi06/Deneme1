@@ -10,3 +10,5 @@ public class deneme {
 }
 
 // I checked your codes all of them are perfekt you can go on your next job
+
+// thank you so much
