@@ -9,5 +9,7 @@ public class Deneme1 {
         }else{
             System.out.println("Siktir Git");
         }
+
+        //hdsajh kjdsah
     }
 }
